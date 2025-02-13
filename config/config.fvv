@@ -60,7 +60,7 @@
       "{storage}/UCTurbo/Download",
     ];
     123云盘 = [
-      "{storage}/123云盘",
+      "{storage}/emulated/0/123云盘",
     ];
     阿里云盘 = [
       "{storage}/AliYunPan",
